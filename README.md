@@ -2,9 +2,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Prasad Baviskar</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<!-- <h3 align="center">A passionate Full Stack Web Developer</h3> -->
 
-<h5>I am a detail-oriented Full Stack Web Developer with excellent technical skills, and proficiency in MERN stack. Extremely passionate about building appealing and dynamic products that provide great user experiences. Looking forward to utilizing my programming skills in a contemporary tech company.</h5>
+<h4>I am a detail-oriented Full Stack Web Developer with excellent technical skills, and proficiency in MERN stack. Extremely passionate about building appealing and dynamic products that provide great user experiences. Looking forward to utilizing my programming skills in a contemporary tech company.</h4>
 
 <!--
 Here are some ideas to get you started:
