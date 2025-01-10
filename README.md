@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Prasad Baviskar</h1>
 <!-- <h3 align="center">A passionate Full Stack Web Developer</h3> -->
 
-<h4>I am a detail-oriented Full Stack Web Developer with excellent technical skills, and proficiency in MERN stack. Extremely passionate about building appealing and dynamic products that provide great user experiences. Looking forward to utilizing my programming skills in a contemporary tech company.</h4>
+<h4>Software Engineer with over 2 years of professional experience in designing, developing, and maintaining dynamic web applications. Proficient in the MERN stack and passionate about creating seamless user experiences through clean, scalable, and efficient code. Adept at working both independently and collaboratively in team environments to deliver high-quality, innovative solutions on time. Seeking to leverage my expertise to contribute to cutting-edge interactive products at a forward-thinking organization.</h4>
 
 <!--
 Here are some ideas to get you started:
@@ -38,6 +38,10 @@ Here are some ideas to get you started:
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
